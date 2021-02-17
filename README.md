@@ -1,2 +1,16 @@
-# project-1
-sample project-1
+# project-(Resume building - static)
+
+### algorithm
+
+* creation of parent element (flexboxes)
+* creation of two cards as children
+	* Basic information (card-1) - `<section>`
+		* Image (`<img>`)
+		* Name (`<h2>`)
+		* Email (`<a>`)
+		* Horizontal line (`<hr>`)
+		* Mobile (`<a>`)
+		* Address (`<p>`)
+	* Profile summary (card-2) - `<section>`
+	  * Summary (un-ordered list `<u1>`)
+	  * Educational qualifications (`<table>`)
